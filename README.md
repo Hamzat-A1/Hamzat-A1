@@ -1,9 +1,7 @@
 - Hi, I’m Sulaimon Hamzat
-- I’m interested in UI Design
-- I’m currently learning HTML, CSS and Php 
-- I’m looking to work on UI Designing
+- I’m interested in Web Development and UI/UX Design
+- I’m looking to work on Web Development
 - Email me: Sulaymanhamz@gmail.com
 
-
-I am a Performance-oriented interface designer with a good understanding of technologies
-I have knowledge in Design Development and Optimization
+An intermediate Web Developer with a good understanding of technologies.
+I also have knowledge in Design Development and Optimization
